@@ -11,10 +11,12 @@ body{
   text-align: center;
 
 }
+/*links */
 .link{
   color: Aquamarine;
   font-size: 16px;
 }
+/*h2 for main and app section */
 h2{
   font-family: Verdana;
   font-weight: 300;
@@ -26,12 +28,7 @@ h4{
   font-size: 21px;
   color: gray;
 }
-.contact{
-  color: white;
-  font-family: Verdana;
-  font-weight: 300;
-  font-size: 42px;
-}
+/*footer */
 
 footer{
   text-align: right;
