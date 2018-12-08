@@ -1,4 +1,4 @@
-html{
+body{
   background-color: black;
   text-align: center;
 
@@ -11,17 +11,17 @@ html{
   text-align: center;
 
 }
-a{
+.link{
   color: Aquamarine;
   font-size: 16px;
 }
-.personal{
+h2{
   font-family: Verdana;
   font-weight: 300;
   font-size: 42px;
   color: white;
 }
-p{
+h4{
   font-family: Verdana;
   font-size: 21px;
   color: gray;
